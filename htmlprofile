@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EJ's Profile</title>
+<h1>So, EJ Karl Cedric B.</h1>
+</head>
+<body>
+
+<img src="so.jpg" alt="basta ako to(si EJ)" width="300px" height="auto">
+
+<h3>Description:</h3>
+<p>A simple student who has interests in technologies that's why he take the IT course,
+likes to play games in his spare time,<br> and it is hungry for improvement of his skills and wanting to be versatile in all angles.</p>
+<dl>
+  <dt>Age</dt>
+  <dd>- 20</dd>
+  <dt>School</dt>
+  <dd>- National Univeristy Fairview</dd>
+  <dt>City</dt>
+  <dd>- Bulacan</dd>
+  <dt>Quote</dt>
+  <dd><pre>- The way to get started is to quit talking and begin doing</pre></dd>
+</dl>  
+</body>
+</html>
